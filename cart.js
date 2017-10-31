@@ -65,5 +65,5 @@ $(function(){
 		//$.cookie("myCarts", $(this).parents("ul").find("li:first").text(),{expires: -1 });
 	});
 	//完成了
-	//ajsdnks
+	//ajsdnksdsfkhjkfrherk
 });
