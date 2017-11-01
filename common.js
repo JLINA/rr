@@ -92,4 +92,5 @@ $(function(){
 		//瞬间回到顶部
 		$("html,body").animate({scrollTop:0}, 0);
 	});
+//     wsfhrejwktherj
 })

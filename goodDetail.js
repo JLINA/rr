@@ -39,7 +39,7 @@ $(function(){
 		}
 	});	
 	
-	//放大镜
+	//放大镜sdjkfhj
 	$(document).on("click",".smallone ul li",function(){
 		console.log("dianj");
 		$(".bImg").html($(this).html());
