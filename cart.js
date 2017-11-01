@@ -4,6 +4,7 @@ $(function(){
 	$(".floatNav").load("index.html .mainNav");
 	
 	//获取cookie信息hahahahahahahahahah
+	//练习git 的操作圣诞节好风景圣诞节封口费gtsdfjeklrnkr
 	//var carts = $.cookie("myCart");
 	//console.log($.cookie("myCart"));
 	var myCartsCookie =JSON.parse($.cookie("myCart"));
