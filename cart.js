@@ -3,7 +3,7 @@ $(function(){
 	$(".cartHooter").load("index.html .footer");
 	$(".floatNav").load("index.html .mainNav");
 	
-	//获取cookie信息
+	//获取cookie信息hahahahahahahahahah
 	//var carts = $.cookie("myCart");
 	//console.log($.cookie("myCart"));
 	var myCartsCookie =JSON.parse($.cookie("myCart"));
