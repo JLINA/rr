@@ -5,6 +5,7 @@ $(function(){
 	
 	//获取cookie信息hahahahahahahahahah
 	//练习git 的操作圣诞节好风景圣诞节封口费gtsdfjeklrnkr
+	//safkj看电视剧弗兰克的时间分开了深刻的肌肤
 	//var carts = $.cookie("myCart");
 	//console.log($.cookie("myCart"));
 	var myCartsCookie =JSON.parse($.cookie("myCart"));

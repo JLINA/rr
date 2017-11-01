@@ -160,4 +160,5 @@ $(function(){
 		console.log(banIndex);
 		show();
 	})
+//	居民为了看他节目 v点点滴滴蛋糕和金融 i 个特人乐日鸡腿菇诶哦软件推广
 });
